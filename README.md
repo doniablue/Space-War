@@ -17,5 +17,5 @@ about. The enemyship got mad started shooting at him and that's how they're in t
 
 #  The Game Screen
 [Gifthub Logo](/images/space.png)
-Format: ![Alt Text](doniablue/fungames/Screenshot (5).png)
+Format: ![Alt Text](doniablue/fungames/https://github.com/doniablue/fungames/blob/master/Screenshot%20(5).png)
 
