@@ -14,3 +14,6 @@ Use the arrows left and right to move left and right
 The spaceship got mad at the enemyship because he was talking bad about his mom. The enemyship told him "Dude chill out, it's
 just a joke." The spaceship replied back and said "That's not something you should be joking about. that's my mom your talking
 about. The enemyship got mad started shooting at him and that's how they're in this mess.  
+
+#  The Game Screen
+[Alt spacewar](file:///C:/Users/dsorya4896/Pictures/Screenshots/Screenshot%20(5).png)
