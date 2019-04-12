@@ -16,4 +16,5 @@ just a joke." The spaceship replied back and said "That's not something you shou
 about. The enemyship got mad started shooting at him and that's how they're in this mess.  
 
 #  The Game Screen
-[Alt spacewar](file:///C:/Users/dsorya4896/Pictures/Screenshots/Screenshot%20(5).png)
+[Gifthub Logo](/images/space.png)
+Format: ![Alt Text](file:///C:/Users/dsorya4896/Pictures/Screenshots/Screenshot%20(5).png)
