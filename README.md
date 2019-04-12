@@ -8,6 +8,9 @@ If a enemyship shoots you than the game is over
 Space = SHOOT
 Use the arrows left and right to move left and right
 
+# Zip file of the Game
+https://github.com/doniablue/fungames/archive/master.zip
+
 
 # Backstory 
 The reason why they're fighting is because the enemyship was making your mama jokes and he was taking it way too far.
