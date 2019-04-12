@@ -18,6 +18,9 @@ The spaceship got mad at the enemyship because he was talking bad about his mom.
 just a joke." The spaceship replied back and said "That's not something you should be joking about. that's my mom your talking
 about. The enemyship got mad started shooting at him and that's how they're in this mess.  
 
+# The Goal
+The goal of the game is too kill all of the enemyships and the Ufo to win the game. You have 3 lives and if you get shot 3 times than you lose the game.
+
 # The Spaceship
 ![Alt Text](https://raw.githubusercontent.com/doniablue/fungames/master/assets/images/spaceship.red.png)
 
