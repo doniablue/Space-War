@@ -16,8 +16,8 @@ just a joke." The spaceship replied back and said "That's not something you shou
 about. The enemyship got mad started shooting at him and that's how they're in this mess.  
 
 # The Spaceship
-[doniblue/ fungames](/images/space.png)
-Format:![Alt Text](https://raw.githubusercontent.com/doniablue/fungames/master/assets/images/spaceship.red.png)
+(/images/space.png)
+![Alt Text](https://raw.githubusercontent.com/doniablue/fungames/master/assets/images/spaceship.red.png)
 
 #  The Game Screen
 [doniablue / fungames](/images/space.png)
