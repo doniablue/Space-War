@@ -27,3 +27,5 @@ about. The enemyship got mad started shooting at him and that's how they're in t
 [doniablue / fungames](/images/space.png)
 Format:![Alt Text](https://github.com/doniablue/fungames/blob/master/Screenshot%20(5).png)
 
+# Credits
+Fonts: https://www.1001fonts.com/sabril-font.html Ships: https://opengameart.org/content/space-shooter-art
